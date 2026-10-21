@@ -21,3 +21,15 @@ Or run the plain script: `python linear_regression_from_scratch.py`
 
 ## Requirements
 numpy, matplotlib
+
+## What I learned
+- How a straight line (y = wx + b) can be a model
+- How the cost function measures how wrong a model is
+- How gradient descent updates w and b step by step
+- Why the learning rate matters: too small is slow, too large makes the cost explode
+
+## Next steps
+- [ ] Multiple linear regression (more than one feature)
+- [ ] Feature scaling
+- [ ] Train/test split
+- [ ] Logistic regression
